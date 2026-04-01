@@ -13,4 +13,4 @@ https://www.core-bolt.com/
 - Industrial automation systems
 
 Learn more about our solutions here:
-https://www.core-bolt.com/
+[https://www.core-bolt.com/](https://www.core-bolt.com/lidar/livox/livox-mid-360-lidar-sensor)
